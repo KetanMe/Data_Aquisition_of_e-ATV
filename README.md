@@ -1,6 +1,3 @@
-# Our e-ATV
-### Need of data aquisition 
-____
 # Evaluating Vehicle Performance - 2022-23 Competition Year
 
 In the competition year 2022-23, our experience underscored the need for a more comprehensive and practical approach to evaluate the performance of vehicles. We realized that relying solely on theoretical considerations was insufficient. To truly assess a vehicle's performance and make necessary improvements, we required dynamic and practical metrics.
