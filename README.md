@@ -1,29 +1,27 @@
-# Evaluating Vehicle Performance - 2022-23 Competition Year
+# Table of Contents
 
-In the competition year 2022-23, our experience underscored the need for a more comprehensive and practical approach to evaluate the performance of vehicles. We realized that relying solely on theoretical considerations was insufficient. To truly assess a vehicle's performance and make necessary improvements, we required dynamic and practical metrics.
+## UNIT I. **Motor Temperature Logging with SD Card**
+1. [DS18B20 Temperature Sensor](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#1-ds18b20-temperature-sensor)
+   - 1.1 [Introduction](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#introduction)
+   - 1.2 [Initialization Sequence](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#initialization-sequence)
+   - 1.3 [Read/Write Time Slots](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#read-time-slots)
+   - 1.4 [Read Time Slots](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#read-time-slots)
+   - 1.5 [Absolute Maximum Ratings](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#absolute-maximum-ratings)
+   - 1.6 [DC Electrical Characteristics](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#absolute-maximum-ratings)
+   - 1.7 [AC Electrical Characteristics](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#absolute-maximum-ratings)
+   - 1.8 [Memory](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#absolute-maximum-ratings)
+   - 1.9 [Pinout](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#absolute-maximum-ratings)
+   - 1.10 [Connection](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#absolute-maximum-ratings)
 
-## Electric All-Terrain Vehicle (e-ATV)
+2. [Interfacing the Sensor](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#2-interfacing-the-sensor)
+   - 2.1 [The Need for an SD Card Module](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#21-the-need-for-an-sd-card-module)
+   - 2.2 [Temperature Data Logging Code](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#22-temperature-data-logging-code)
 
-Our electric all-terrain vehicle (e-ATV) was a major focus of our endeavors, and its electrical system was a key element. This system can be divided into two primary sub-divisions, each playing a vital role in ensuring the vehicle's functionality and efficiency.
 
-### Ground Low Voltage (12V)
-
-The Ground Low Voltage (GLV) component encompasses a network of low-voltage circuits designed to facilitate the startup sequence of our e-ATV. While often operating behind the scenes, these circuits are essential for initiating and maintaining the vehicle's performance.
-
-### High Voltage (48V)
-
-The High Voltage (HV) system serves as the beating heart of our vehicle. It comprises several critical components:
-
-- **In-House Manufactured 48V - 117.6Ah Li-ion Battery:**
-  At the core of the HV system is a powerful, in-house manufactured lithium-ion battery pack. This impressive battery stores energy and ensures that our e-ATV has a reliable and long-lasting power source.
-
-- **5KW PMSM Motor:**
-  To convert the stored energy into motion, our e-ATV is equipped with a robust 5KW Permanent Magnet Synchronous Motor (PMSM). This motor is responsible for delivering the necessary power to propel the vehicle with efficiency and precision.
-
-- **Battery Management System (BMS):**
-  The BMS plays a critical role in monitoring the battery's parameters, ensuring its health and safety. It actively manages the state of the battery to optimize its performance and longevity.
-
-- **20A Charger:**
-  To keep our vehicle ready for action, we've incorporated a 20A charger that efficiently replenishes the battery's charge, allowing our e-ATV to be quickly prepped for the next adventure.
-
-This comprehensive electrical system, combining the Ground Low Voltage and High Voltage components, is the backbone of our e-ATV's performance. By integrating practical, dynamic metrics and components, we can continuously monitor and enhance the vehicle's capabilities. The 48V Li-ion battery, the powerful PMSM motor, the vigilant BMS, and the efficient charger work together to provide a reliable and robust electric all-terrain vehicle that's ready to tackle any challenge.
+3. **Orange Rotary Encoder RPM Calculation**
+4. **CAN Bus Data Transmission (RPM, Speed, Temperature)**
+5. **CAN Bus Data Reception and Display (Serial Monitor and OLED)**
+6. **MySQL Data Logging for CAN Sender**
+7. **Real-Time Data Monitoring with Google Firebase (CAN Sender)**
+8. **DALY BMS Data Extraction via CAN Protocol**
+9. **Real-Time Data Monitoring with Google Firebase (DALY CAN Protocol)**
