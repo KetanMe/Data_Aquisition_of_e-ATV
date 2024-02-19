@@ -93,7 +93,7 @@
 
 12. [Handling Electromagnetic Interference and Noise in CAN](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#electromagnetic-interference-and-noise-in-can)
 
-4. **CAN Bus Data Transmission (RPM, Speed, Temperature)**
+## UNIT IV. **CAN Bus Data Transmission (RPM, Speed, Temperature)**
 5. **CAN Bus Data Reception and Display (Serial Monitor and OLED)**
 6. **MySQL Data Logging for CAN Sender**
 7. **Real-Time Data Monitoring with Google Firebase (CAN Sender)**
