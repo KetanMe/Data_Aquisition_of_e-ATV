@@ -16,6 +16,7 @@
 2. [Interfacing the Sensor](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#2-interfacing-the-sensor)
    - 2.1 [The Need for an SD Card Module](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#21-the-need-for-an-sd-card-module)
    - 2.2 [Temperature Data Logging Code](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#22-temperature-data-logging-code)
+   - 2.3 [Mounting of the sensors](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#23-mounting-of-the-sensors)
 
 
 3. **Orange Rotary Encoder RPM Calculation**
