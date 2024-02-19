@@ -34,6 +34,65 @@
 3. [Code for interfacing sensor with ESP8266](https://github.com/KetanMe/Measuring-RPM-using-Orange-Rotary-Encoder/blob/main/Orange_enoder_RPM_Esp8266.ino)
    - 3.1 [Logic Behind the Code](https://github.com/KetanMe/Measuring-RPM-using-Orange-Rotary-Encoder/edit/main/README.md#logic-behind-the-code)
    - 3.2 [Theoretical Discussion](https://github.com/KetanMe/Measuring-RPM-using-Orange-Rotary-Encoder/edit/main/README.md#theoretical-discussion)
+  
+## UNIT III. **Introduction to Control Area Network (CAN)**
+
+1. [Primary Purpose of the CAN Protocol](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#primary-purpose-of-the-can-protocol)
+   - [Introduction](#introduction-to-the-can-protocol)
+   - [Key Features](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#key-features-of-the-can-protocol)
+
+2. [CAN vs Other Communication Protocols](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#can-vs-other-communication-protocols-such-as-uart-or-spi)
+   - [Communication Model](#communication-model)
+   - [Message Formatting](#message-formatting)
+   - [Error Handling](#error-handling)
+   - [Data Transfer Rate](#data-transfer-rate)
+   - [Applications](#applications)
+
+3. [Maximum Data Transfer Rate Supported by CAN](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#maximum-data-transfer-rate-supported-by-the-can-protocol)
+
+4. [Handling Message Priority and Arbitration](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#maximum-data-transfer-rate-supported-by-the-can-protocol)
+   - [Message Identifier](#message-identifier)
+   - [Arbitration](#arbitration)
+   - [Priority-Based Arbitration](#priority-based-arbitration)
+   - [Bit-wise Arbitration](#bit-wise-arbitration)
+   - [Non-Destructive Arbitration](#non-destructive-arbitration)
+   - [Message Transmission](#message-transmission)
+
+5. [Different Message Types Supported by CAN](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#maximum-data-transfer-rate-supported-by-the-can-protocol)
+   - [Data Frames](#data-frames)
+   - [Remote Frames](#remote-frames)
+
+6. [Error Detection and Error Handling in CAN](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#maximum-data-transfer-rate-supported-by-the-can-protocol)
+   - [Cyclic Redundancy Check (CRC)](#cyclic-redundancy-check-crc)
+   - [Acknowledgment (ACK)](#acknowledgment-ack)
+   - [Error Frames](#error-frames)
+   - [Error Passive and Bus Off States](#error-passive-and-bus-off-states)
+   - [Error Handling by Higher Layers](#error-handling-by-higher-layers)
+
+7. [Difference Between CAN 2.0A and CAN 2.0B](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#difference-between-can-20a-and-can-20b)
+
+8. [CAN FD (Flexible Data-rate) vs Classical CAN](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#can-fd-flexible-data-rate-vs-classical-can)
+
+9. [Handling Network Management and Node Synchronization](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#handling-network-management-and-node-synchronization)
+   - [Network Configuration and Initialization](#network-configuration-and-initialization)
+   - [Address Assignment and Node Identification](#address-assignment-and-node-identification)
+   - [Time Synchronization](#time-synchronization)
+   - [Heartbeat Monitoring and Node Health Monitoring](#heartbeat-monitoring-and-node-health-monitoring)
+   - [Bus Monitoring and Diagnostics](#bus-monitoring-and-diagnostics)
+   - [Network Management Protocols](#network-management-protocols)
+   - [Node State Machines](#node-state-machines)
+
+10. [Significance of the CAN Identifier and its Use in Message Filtering](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#significance-of-the-can-identifier-and-its-use-in-message-filtering)
+    - [Message Routing](#message-routing)
+    - [Message Prioritization](#message-prioritization)
+    - [Message Filtering](#message-filtering)
+    - [Addressing](#addressing)
+    - [Identification and Decoding](#identification-and-decoding)
+
+11. [Maximum Length of a CAN Message](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#maximum-length-of-a-can-message)
+
+12. [Handling Electromagnetic Interference and Noise in CAN](https://github.com/KetanMe/Introduction-to-Control-Area-Network-CAN-/tree/main?tab=readme-ov-file#electromagnetic-interference-and-noise-in-can)
+
 4. **CAN Bus Data Transmission (RPM, Speed, Temperature)**
 5. **CAN Bus Data Reception and Display (Serial Monitor and OLED)**
 6. **MySQL Data Logging for CAN Sender**
