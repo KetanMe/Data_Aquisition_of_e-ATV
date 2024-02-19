@@ -1,4 +1,4 @@
-# Table of Contents
+# Data Aquisition of e-ATV
 
 ## UNIT I. **Motor Temperature Logging with SD Card**
 1. [DS18B20 Temperature Sensor](https://github.com/KetanMe/Aquiring-Motor-Tempreature/blob/main/README.md#1-ds18b20-temperature-sensor)
