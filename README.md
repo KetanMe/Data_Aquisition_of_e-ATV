@@ -120,4 +120,20 @@
 4. [Code](https://github.com/KetanMe/CAN-BUS-Data-Reception-and-Display/blob/main/README.md#code)
 5. [Explaination of code](https://github.com/KetanMe/CAN-BUS-Data-Reception-and-Display/blob/main/README.md#explaination-of-code)
 6. [Output](https://github.com/KetanMe/CAN-BUS-Data-Reception-and-Display/blob/main/README.md#output)
-   
+
+## UNIT VI. MySQL Data Logging for CAN Sender
+1. [Introduction](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#introduction)
+2. [MySQL: Basic Overview](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#mysql-basic-overview)
+3. [Block Diagram](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#block-diagram)
+4. [IoT Layers Used in the Project](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#iot-layers-used-in-the-project)
+5. [Protocols, Services, and Models](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#protocols-services-and-models)
+6. [Code](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#code)
+7. [Code Explanation](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#explaination-of-code)
+   - [Includes and Global Variables](#includes-and-global-variables)
+   - [Setup Function](#setup-function)
+   - [Loop Function](#loop-function)
+   - [Helper Functions](#helper-functions)
+8. [PHP Script for MySQL](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#php-script-for-mysql)
+   - [Explanation of PHP Script](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#explaination-of-php-script)
+9. [Output](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#output)
+
