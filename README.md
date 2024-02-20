@@ -135,5 +135,6 @@
    - [Helper Functions](#helper-functions)
 8. [PHP Script for MySQL](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#php-script-for-mysql)
    - [Explanation of PHP Script](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#explaination-of-php-script)
+9. [Corresponding code for reciver](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#corresponding-reciver-code)
 9. [Output](https://github.com/KetanMe/MySQL-Data-Logging-for-CAN-sender/blob/main/README.md#output)
 
