@@ -183,7 +183,7 @@
    - [`readDataFromFirebase()`]()
    - [`displayDataOnOLED()`]()
    - [`printReceivedValues()`]()
-6. [Output](https://github.com/KetanMe/Fteching-and-Displaying-the-BMS-Data-on-Oled-Display/edit/main/README.md#output)
+5. [Output](https://github.com/KetanMe/Fteching-and-Displaying-the-BMS-Data-on-Oled-Display/blob/main/README.md#output)
 
 
 
