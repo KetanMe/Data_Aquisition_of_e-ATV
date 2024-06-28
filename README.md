@@ -169,10 +169,20 @@
 2. [MCP2515 CAN Setup](https://github.com/KetanMe/Extracting-the-BMS-Data-Using-CAN-Protocol-and-Sending-it-on-Google-FireBase/edit/main/README.md#2-mcp2515-can-setup)
 3. [WiFi and Firebase Configuration](https://github.com/KetanMe/Extracting-the-BMS-Data-Using-CAN-Protocol-and-Sending-it-on-Google-FireBase/edit/main/README.md#3-wifi-and-firebase-configuration)
 4. [CAN Message Structures and Data Storage](https://github.com/KetanMe/Extracting-the-BMS-Data-Using-CAN-Protocol-and-Sending-it-on-Google-FireBase/edit/main/README.md#4-can-message-structures-and-data-storage)
-5. [Data Sending Function (`Send_msg`)](https://github.com/KetanMe/Extracting-the-BMS-Data-Using-CAN-Protocol-and-Sending-it-on-Google-FireBase/edit/main/README.md#5-data-sending-function-send_msg)
+5. [Data Sending Function ](https://github.com/KetanMe/Extracting-the-BMS-Data-Using-CAN-Protocol-and-Sending-it-on-Google-FireBase/edit/main/README.md#5-data-sending-function-send_msg)
 6. [Setup Function](https://github.com/KetanMe/Extracting-the-BMS-Data-Using-CAN-Protocol-and-Sending-it-on-Google-FireBase/edit/main/README.md#6-setup-function)
 7. [Main Loop](https://github.com/KetanMe/Extracting-the-BMS-Data-Using-CAN-Protocol-and-Sending-it-on-Google-FireBase/edit/main/README.md#7-main-loop)
 8. [Summary](https://github.com/KetanMe/Extracting-the-BMS-Data-Using-CAN-Protocol-and-Sending-it-on-Google-FireBase/edit/main/README.md#summary)
+
+## UNIT X. Fetching and Displaying the BMS Data on Oled Display
+1. [Introduction](https://github.com/KetanMe/Fteching-and-Displaying-the-BMS-Data-on-Oled-Display/edit/main/README.md#introduction)
+2. [Libraries and Constants](https://github.com/KetanMe/Fteching-and-Displaying-the-BMS-Data-on-Oled-Display/edit/main/README.md#libraries-and-constants)
+3. [Setup Function](https://github.com/KetanMe/Fteching-and-Displaying-the-BMS-Data-on-Oled-Display/edit/main/README.md#setup-function)
+4. [Loop Function](https://github.com/KetanMe/Fteching-and-Displaying-the-BMS-Data-on-Oled-Display/edit/main/README.md#loop-function)
+5. [Functions](https://github.com/KetanMe/Fteching-and-Displaying-the-BMS-Data-on-Oled-Display/edit/main/README.md#functions-readdatafromfirebase-displaydataonoled-printreceivedvalues)
+   - [`readDataFromFirebase()`]()
+   - [`displayDataOnOLED()`]()
+   - [`printReceivedValues()`]()
 
 
 
