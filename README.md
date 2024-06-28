@@ -140,3 +140,15 @@
 
 ## UNIT VII. Real Time Data Monitoring with Google Firebase
 
+1. [Includes and Definitions](https://github.com/KetanMe/Real-Time-Temperature-and-RPM-monitoring-using-Google-Firebase/blob/main/README.md#includes-and-definitions)
+2. [Wi-Fi and Firebase Configuration](https://github.com/KetanMe/Real-Time-Temperature-and-RPM-monitoring-using-Google-Firebase/blob/main/README.md#wi-fi-and-firebase-configuration)
+3. [Rotary Encoder Setup](https://github.com/KetanMe/Real-Time-Temperature-and-RPM-monitoring-using-Google-Firebase/blob/main/README.md#rotary-encoder-setup)
+4. [Temperature Sensor Setup](https://github.com/KetanMe/Real-Time-Temperature-and-RPM-monitoring-using-Google-Firebase/blob/main/README.md#temperature-sensor-setup)
+5. [CAN Message Structure](https://github.com/KetanMe/Real-Time-Temperature-and-RPM-monitoring-using-Google-Firebase/blob/main/README.md#can-message-structure)
+6. [State Machine Setup](https://github.com/KetanMe/Real-Time-Temperature-and-RPM-monitoring-using-Google-Firebase/blob/main/README.md#state-machine-setup)
+7. [Interrupt Service Routine (ISR)](https://github.com/KetanMe/Real-Time-Temperature-and-RPM-monitoring-using-Google-Firebase/blob/main/README.md#interrupt-service-routine-isr)
+8. [Function Declaration](https://github.com/KetanMe/Real-Time-Temperature-and-RPM-monitoring-using-Google-Firebase/blob/main/README.md#function-declaration)
+9. [Setup Function](https://github.com/KetanMe/Real-Time-Temperature-and-RPM-monitoring-using-Google-Firebase/blob/main/README.md#setup-function)
+10. [Main Loop](https://github.com/KetanMe/Real-Time-Temperature-and-RPM-monitoring-using-Google-Firebase/blob/main/README.md#main-loop)
+11. [Utility Functions](https://github.com/KetanMe/Real-Time-Temperature-and-RPM-monitoring-using-Google-Firebase/blob/main/README.md#utility-functions)
+
